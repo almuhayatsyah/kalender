@@ -1,0 +1,6 @@
+{
+  "name": "Kalender",
+  "description": "Aplikasi kalender sederhana dengan tampilan tanggal, agenda acara, catatan harian, dan hari libur.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
